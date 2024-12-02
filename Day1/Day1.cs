@@ -7,7 +7,7 @@ using System.IO;
 
 namespace AdventOfCode2024.Week1
 {
-    class Week1
+    class Day1
     {
         List<int> list1 = new List<int>();
         List<int> list2 = new List<int>();

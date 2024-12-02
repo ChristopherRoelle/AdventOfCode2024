@@ -11,9 +11,9 @@ namespace AdventOfCode2024.Week1
 
         public static void Main() {
 
-            string inputPath = "C:\\Users\\chris\\source\\repos\\AdventOfCode2024\\AdventOfCode2024\\Week1\\input.txt";
+            string inputPath = "C:\\Users\\chris\\source\\repos\\AdventOfCode2024\\AdventOfCode2024\\Day1\\input.txt";
 
-            Week1 week1 = new Week1();
+            Day1 week1 = new Day1();
 
             week1.ReadInput(inputPath);
 
