@@ -18,7 +18,7 @@ namespace AdventOfCode2024.Week1
             week1.ReadInput(inputPath);
 
             Console.WriteLine($"Total Distance: {week1.CalculateDistance()}"); // Solution1: 2164381
-            Console.WriteLine($"Total Similarity: {week1.CalculateSimilarityScore()}"); // Solution2: 2164381
+            Console.WriteLine($"Total Similarity: {week1.CalculateSimilarityScore()}"); // Solution2: 20719933
 
         }
 
