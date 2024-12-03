@@ -15,6 +15,8 @@ namespace AdventOfCode2024.Week1
 
             Day1 week1 = new Day1();
 
+            Console.WriteLine("Day 1");
+
             week1.ReadInput(inputPath);
 
             Console.WriteLine($"Total Distance: {week1.CalculateDistance()}"); // Solution1: 2164381

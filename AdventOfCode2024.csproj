@@ -5,6 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>AdventOfCode2024.Day2.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
